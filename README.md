@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Abhijit Misal
 
-<!--
-**abhijit-misal/abhijit-misal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year undergraduate student  
+📊 Aspiring Data Analyst  
+📍 India  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL
+- Excel
+- Power BI
+- Data Cleaning & Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Projects
+- Sales Data Analysis using Python
+- SQL Business Analysis
+- Power BI Dashboard for Insights
+
+## 📫 Contact
+- LinkedIn: (add link)
+- Email: (optional)
